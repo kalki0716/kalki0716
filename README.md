@@ -1,9 +1,8 @@
-[![MasterHead](https://www.google.com/search?q=devops+banner&rlz=1C1CHBF_enIN1006IN1006&sxsrf=AJOqlzVJi7A3Er9unUJlXKTrbi3rNVUG8g:1674986757577&source=lnms&tbm=isch&sa=X&ved=2ahUKEwifh8H1w-z8AhVc0nMBHVvGBgoQ_AUoAXoECAEQAw&biw=1920&bih=929&dpr=1#imgrc=nXU7G3XhKVf72M)(https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Kalki Narayan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalki0716&label=Profile%20views&color=0e75b6&style=flat" alt="kalki0716" /> </p>
 
 - 🌱 I’m currently learning **DevOps**
 
