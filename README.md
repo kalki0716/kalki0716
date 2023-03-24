@@ -54,42 +54,12 @@
   
  
   
-  ## Hashnode Blogs (Expand to View)
-
-<details>
-  <summary><b>Tap Me</b></summary>
- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/maximizing-productivity-with-github-actions&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/what-is-docker-get-started-with-docker&large=false&theme=dark"/>
-</p>
-  </details>
   
-  ## 📊 Github Stats (Expand to View) 
+
   
- <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-   
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikeshops&theme=2077" alt="rishikeshops" /></p>
 
-</details>
 
-  <details>
-  <summary><b>📈 My Top Languages</b></summary>
-
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikeshops&theme=aura" alt="rishikeshops" 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikeshops&theme=aura" alt="rishikeshops" /></p>
-</details> 
-
-  </details>
-    <details>
-  <summary><b>📈 My Contributions</b></summary>
-   
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikeshops&theme=great_gatsby" alt="rishikeshops" /></p>
- 
-
-</details>
-
+  
  
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
